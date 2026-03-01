@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Rakesh Borugala</h1>
 <h3 align="center">A Passionate Java Backend Developer</h3>
@@ -10,7 +10,7 @@
 ☕ Skilled in <b>Core Java, JDBC, JSP, Servlets, Spring & Spring Boot</b>  
 🗄️ Worked with <b>MySQL / Oracle</b> Database  
 🔍 Strong understanding of OOP concepts & problem-solving  
-🚀 Developed real-time projects like JobSeeker Portal  
+🚀 Developed real-time projects like JobSeeker Portal & Online Electronic Store
 
 ## 🛠 Skills
 <b>• Languages:</b> Java, SQL
