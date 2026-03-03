@@ -1,4 +1,4 @@
-
+<img src="https://github.com/RakeshBorugala/RakeshBorugala/blob/main/LinkedIn%20Background%20Photo.png"/>
 
 <h1 align="center">Hi 👋, I'm Rakesh Borugala</h1>
 <h3 align="center">A Passionate Java Backend Developer</h3>
